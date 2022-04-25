@@ -1,0 +1,16 @@
+.nav-menu {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    color: #000;
+    font-weight: 400;
+}
+
+.nav-menu:hover {
+    color: #0984e3;
+}
+
+.user-name {
+    font-size: 18px;
+    font-weight: 400;
+}

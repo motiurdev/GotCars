@@ -1,0 +1,12 @@
+.countdown-bg {
+  background: linear-gradient(
+      180deg,
+      rgba(1, 48, 91, 0.86),
+      rgba(0, 60, 83, 0.86)
+    ),
+    url("../../../images/countdown.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}

@@ -1,0 +1,24 @@
+.footer {
+    background-color: #0D1824;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 20px 0;
+}
+
+.social-icon a{
+    margin: 10px;
+}
+
+.social-icon a i:hover {
+    background-color: #073d77;
+}
+
+.social-icon a i {
+    color: #fff;
+    padding: 14px;
+    border-radius: 50%;
+    background-color: #0d2f53;
+}
+
+.footer-menu a{
+    color: rgba(255, 255, 255, 0.7);
+}

@@ -1,0 +1,13 @@
+.btn-regular {
+    border: none;
+    padding: 8px 30px;
+    background-color: #01305b;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.btn-regular:hover {
+    color: #fff;
+    background-color: #00203d;
+}
